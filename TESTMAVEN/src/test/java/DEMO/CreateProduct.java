@@ -15,6 +15,8 @@ public class CreateProduct extends BaseClass
 	@Test
 	public void CreateProductTest() throws Throwable
 	{//PUSH DATA TO REPO
+
+		//PULL DATA FROM REPO
 		
 		Java_Utility jiib=new Java_Utility();
 		Excel_Utility elib=new Excel_Utility();
